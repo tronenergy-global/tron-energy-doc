@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-175dbc37","path":"/api/order-process.html","title":"Order in progress","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1725416750000},"filePathRelative":"api/order-process.md"}');export{e as data};

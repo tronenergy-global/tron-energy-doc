@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-4087f520","path":"/api/order-expiring.html","title":"Expired orders soon","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"api/order-expiring.md"}');export{e as data};

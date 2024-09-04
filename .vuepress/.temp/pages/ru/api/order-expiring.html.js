@@ -1,1 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-65df2314\",\"path\":\"/ru/api/order-expiring.html\",\"title\":\"Срок действия заказов скоро закончится\",\"lang\":\"ru-RU\",\"frontmatter\":{},\"headers\":[],\"git\":{},\"filePathRelative\":\"ru/api/order-expiring.md\"}")
+export const data = JSON.parse("{\"key\":\"v-65df2314\",\"path\":\"/ru/api/order-expiring.html\",\"title\":\"Срок действия заказов скоро закончится\",\"lang\":\"ru-RU\",\"frontmatter\":{},\"headers\":[],\"git\":{\"updatedTime\":1725416750000},\"filePathRelative\":\"ru/api/order-expiring.md\"}")

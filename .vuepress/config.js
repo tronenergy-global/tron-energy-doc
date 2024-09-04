@@ -7,11 +7,19 @@ export default defineUserConfig({
   // description: '简单、易用的TRON能量购买平台',
   head: [
     ['link', { rel: 'icon', href: '/tron-energy-doc/images/logo.png' }],
-    ['link', { rel: 'canonical', href: 'https://itrx.io' }],
     ['meta', { name: 'yandex-verification', content: '512d0ae5e3361304' }],
     ['link', { hreflang: 'en', href: '/tron-energy-doc/' }],
     ['link', { hreflang: 'ru', href: '/tron-energy-doc/ru/' }],
     ['link', { hreflang: 'zh-Hans', href: '/tron-energy-doc/zh/' }],
+    ['script', {}, `
+      (function() {
+        var base = 'https://develop.itrx.io';
+        var link = document.createElement('link');
+        link.rel = 'canonical';
+        link.href = base + window.location.pathname;
+        document.head.appendChild(link);
+      })();
+    `]
   ],
 
   locales: {

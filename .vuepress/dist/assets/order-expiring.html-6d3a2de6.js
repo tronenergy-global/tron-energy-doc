@@ -1,0 +1,1 @@
+import{_ as r,o as t,c as o,b as e,d as a}from"./app-5b967fec.js";const c={},n=e("h1",{id:"即将到期订单",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#即将到期订单","aria-hidden":"true"},"#"),a(" 即将到期订单")],-1),s=e("p",null,"建设中，有需求就快点，无需求持续划水...",-1),_=[n,s];function d(i,l){return t(),o("div",null,_)}const f=r(c,[["render",d],["__file","order-expiring.html.vue"]]);export{f as default};
