@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-25671e61","path":"/zh/api/order-expiring.html","title":"即将到期订单","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"zh/api/order-expiring.md"}');export{e as data};
