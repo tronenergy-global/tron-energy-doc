@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-65df2314","path":"/ru/api/order-expiring.html","title":"Срок действия заказов скоро закончится","lang":"ru-RU","frontmatter":{},"headers":[],"git":{},"filePathRelative":"ru/api/order-expiring.md"}');export{e as data};

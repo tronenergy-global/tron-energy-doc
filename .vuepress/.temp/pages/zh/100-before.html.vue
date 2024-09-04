@@ -1,0 +1,13 @@
+<template><div><h1 id="对接的准备前工作" tabindex="-1"><a class="header-anchor" href="#对接的准备前工作" aria-hidden="true">#</a> 对接的准备前工作</h1>
+<h2 id="注册账号、申请api" tabindex="-1"><a class="header-anchor" href="#注册账号、申请api" aria-hidden="true">#</a> 注册账号、申请API</h2>
+<ul>
+<li>在用[户中心-API]中申请一个KEY</li>
+</ul>
+<div class="custom-container tip"><p class="custom-container-title">TIP</p>
+<ul>
+<li>您可以至多申请3个APIKEY，以便在不同的场景区做区分。</li>
+</ul>
+</div>
+</div></template>
+
+

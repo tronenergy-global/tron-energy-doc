@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d8c946a6","path":"/zh/general/sign.html","title":"如何签名","lang":"zh-CN","frontmatter":{"title":"如何签名"},"headers":[{"level":2,"title":"POST签名过程","slug":"post签名过程","link":"#post签名过程","children":[]},{"level":2,"title":"代码示例","slug":"代码示例","link":"#代码示例","children":[]}],"git":{},"filePathRelative":"zh/general/sign.md"}');export{e as data};
